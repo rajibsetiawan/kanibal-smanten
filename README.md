@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TABLE</title>
+</head>
+<body>
+    <h1 align="center" style="font-size: 50px;">BAHAYA !! PALOPO DI SERANG KANIBAL</h1>
+    <hr width="80%" size="3" color="555652">
+    <table border="1" align="center" width="80%" cellspacing="18" cellpadding="20" bgcolor="black">
+        <tr>
+            <td align="center" colspan="2"><h1 style="font-size: 70px; color: aliceblue;">DAFTAR KANIBAL</h1></td>
+        </tr>
+        <tr>
+            <td align="center" style="padding: 35px;" bgcolor="red"><img src="nabil.jpg" alt="nabil" width="200px" style="margin: 30px;">
+                <p style="font-size: 20px;">IKAN TRAVIS NABIL</p>
+            </td>
+            <td align="center" style="padding: 35px;" bgcolor="red"><img src="gian.jpg" alt="gian" width="200px">
+                <p style="font-size: 20px;">GIAN SANG PEMAKAN PEREMPUAN</p>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" style="padding: 35px;" bgcolor="red"><img src="pammi.jpg" alt="pammi" width="200px">
+                <p style="font-size: 20px;">PAMMI PENJUAL ORGAN</p>
+            </td>
+            <td align="center" style="padding: 35px;" bgcolor="red"><img src="dimas.jpg" alt="dimas" width="200px">
+                <p style="font-size: 20px;">DIMAS PENCULIK ANAK</p>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" style="padding: 35px;" bgcolor="red"><img src="ridho.jpg" alt="ridho" width="200px" style="margin: 30px;">
+                <p style="font-size: 20px;">RIDHO PENGHISAP KUKU</p>
+            </td>
+            <td align="center" style="padding: 35px;" bgcolor="red"><img src="binta.jpg" alt="dimas" width="200px">
+                <p style="font-size: 20px;">BINTA PENJILAT </p>
+            </td>
+        </tr>
+    </table>
+    
+</body>
+</html>
